@@ -1,4 +1,4 @@
-# FWD-Data-Analysis-Advanced-track
+# FWD-Data-Analysis-Advanced-track (SQL Project)
 SQL Project Digital Music Store Database  
 Project Introduction
 In this project, you will query the Chinook Database. The Chinook Database holds information about a music store. For this project, you will be assisting the Chinook team with understanding the media in their store, their customers and employees, and their invoice information. To assist you in the queries ahead, the schema for the Chinook Database is provided
